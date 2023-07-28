@@ -1,1 +1,2 @@
  This is the first feature of our application.
+ add 2nd feature
